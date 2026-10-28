@@ -39,7 +39,7 @@ def run_interactive_menu():
     while True:
  
         print("         BILLING SYSTEM MENU        ")
-        print("1.  Calculate Total Bill")
+        print("1. Calculate Total Bill")
         choice = input("Enter choice (1-3): ").strip()
         
             
